@@ -21,6 +21,7 @@ library
                         Lib.Plugin
   -- other-modules:
   -- other-extensions:
+  ghc-options:          -fobject-code
   build-depends:        base >=4.12 && <4.13
                       , ghc  == 8.6.*
   hs-source-dirs:       src
