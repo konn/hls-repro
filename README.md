@@ -1,6 +1,6 @@
 # Reproduction Procedure
 This repository aims at providing a minimal reproducing example
-for [Issue #70 of haskell-language-server][hls70] and [#107 of ghcide][ghcide107]
+for [Issue #70 of haskell-language-server][hls70] and [#868 of ghcide][ghcide868]
 
 ## Setting
 1. Checkout `10dbde048e8ac028e80f607445776c8375722f75` of haskell/ghcide.
@@ -26,4 +26,4 @@ for [Issue #70 of haskell-language-server][hls70] and [#107 of ghcide][ghcide107
    ```
 
 [hls70]: https://github.com/haskell/haskell-language-server/issues/70
-[ghcide107]: https://github.com/haskell/ghcide/issues/107
+[ghcide107]: https://github.com/haskell/ghcide/issues/868
