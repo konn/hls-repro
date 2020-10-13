@@ -26,4 +26,4 @@ for [Issue #70 of haskell-language-server][hls70] and [#868 of ghcide][ghcide868
    ```
 
 [hls70]: https://github.com/haskell/haskell-language-server/issues/70
-[ghcide107]: https://github.com/haskell/ghcide/issues/868
+[ghcide868]: https://github.com/haskell/ghcide/issues/868
